@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1",
+    "brand_name": "TechZone",
+    "rating": 4.5,
+    "description": "Exclusive deals on latest gadgets",
+    "brand_logo": "https://i.ibb.co.com/7tkZ3c39/logo1.png",
+    "shop-Link": "https://techzone.shop",
+    "category": "Electronics",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon-code": "TECH20",
+        "description": "20% off on all electronics",
+        "expiry-date": "2025-08-31",
+        "condition": "Minimum purchase of $100",
+        "cupon_type": "Discount"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "brand_name": "StyleMart",
+    "rating": 4.0,
+    "description": "Trendy fashion for all seasons",
+    "brand_logo": "https://i.postimg.cc/3rgfWMmz/logo2.jpg",
+    "shop-Link": "https://stylemart.shop",
+    "category": "Fashion",
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon-code": "STYLE10",
+        "description": "10% off on clothing",
+        "expiry-date": "2025-07-15",
+        "condition": "Valid on orders above $50",
+        "cupon_type": "Percentage"
+      },
+      {
+        "coupon-code": "FREESHIP",
+        "description": "Free shipping on all orders",
+        "expiry-date": "2025-12-31",
+        "condition": "No minimum order",
+        "cupon_type": "Shipping"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "brand_name": "GroceryGo",
+    "rating": 3.8,
+    "description": "Fresh groceries at your doorstep",
+    "brand_logo": "https://i.postimg.cc/fTCHjxHK/logo3.jpg",
+    "shop-Link": "https://grocerygo.shop",
+    "category": "Groceries",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon-code": "GROC15",
+        "description": "15% off on first order",
+        "expiry-date": "2025-06-30",
+        "condition": "New users only",
+        "cupon_type": "Welcome"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "brand_name": "BookBarn",
+    "rating": 4.2,
+    "description": "Your one-stop shop for books",
+    "brand_logo": "https://i.postimg.cc/9FC87xB0/logo4.jpg",
+    "shop-Link": "https://bookbarn.shop",
+    "category": "Books",
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon-code": "READMORE",
+        "description": "Buy 2 get 1 free",
+        "expiry-date": "2025-10-01",
+        "condition": "Applicable on selected books",
+        "cupon_type": "Bundle"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "brand_name": "FitGear",
+    "rating": 4.7,
+    "description": "Top-rated fitness accessories",
+    "brand_logo": "https://i.postimg.cc/fLYC3XtY/logo-5.jpg",
+    "shop-Link": "https://fitgear.shop",
+    "category": "Fitness",
+    "isSaleOn": true,
+    "coupons": [
+      {
+        "coupon-code": "FIT30",
+        "description": "30% off on fitness gear",
+        "expiry-date": "2025-09-30",
+        "condition": "Valid on selected items",
+        "cupon_type": "Seasonal"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "brand_name": "ToyWorld",
+    "rating": 3.9,
+    "description": "https://i.postimg.cc/J0mqjnZv/logo-6.png",
+    "brand_logo": "https://i.ibb.co.com/N2PsR2NZ/logo-6.png",
+    "shop-Link": "https://toyworld.shop",
+    "category": "Toys",
+    "isSaleOn": false,
+    "coupons": [
+      {
+        "coupon-code": "TOYFUN",
+        "description": "Get 15% off on toys above $40",
+        "expiry-date": "2025-11-20",
+        "condition": "Minimum purchase of $40",
+        "cupon_type": "Flat"
+      }
+    ]
+  }
+]
